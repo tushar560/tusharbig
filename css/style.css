@@ -1,0 +1,166 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+    outline: 0;
+}
+.container{
+     width:98% ;
+     margin: auto;
+}
+#header{
+    width: 100%;
+    padding: 15px 0px;
+    float: left;
+    background-color: #fff;
+
+}
+.logo{
+    width:20% ;
+    float: left;
+
+
+}
+.img{
+    width: 60px;
+    height: 40px;
+}
+.menu{
+    width: 55%;
+    float: left;
+}
+.menu ul{
+   text-align: center;
+}
+.menu li{
+    display: inline-block;
+    margin: 10px 0px;
+}
+.menu a{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0px 10px;
+}
+.search{
+    width: 25%;
+    float: left;
+    text-align: end;
+
+}
+.search i{
+    margin-top: 14px ;
+    font-size: 20px ;
+    
+}
+#hero-part{
+    width: 100%;
+    padding: 100px opx;
+    background-image: url(../img/R.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    float: left;
+    background-attachment: fixed;
+}
+#hero-part h1{
+   font-size: 50px;
+   margin-bottom: 20px;
+   margin-top: 100px;
+   margin-left: 60px;
+}
+#hero-part p{
+    width: 50%;
+    margin-left: 60px;
+}
+#hero-part button{
+    margin-bottom: 60px;
+    background: orange;
+    padding: 10px 40px;
+    margin-top: 20px;
+    border: none;
+    text-decoration: none;
+    margin-left: 60px;
+}
+#about{
+    padding: 30px 0px; 
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.about-writing-part{
+    margin-top: 50px;
+    width: 100%;
+    float: left;
+}
+.about-writing-part h2{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.about-writing-part p{
+    width: 60%;
+    margin: auto;
+}
+.about-box-part{
+    width: 100%;
+    float: left;
+}
+.about-box{
+    width: 30%;  
+    float: left;
+    margin: 0px 1.5%;
+    background-color: gray;
+}
+.about-box img{
+    width: 100%;
+}
+.about-box h2{
+    color: #fff;
+}
+.about-box p{
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+#dance{
+    width: 100%;
+    float: left;
+}
+.dance-part{
+    width: 100%;
+    float: left;
+}
+.dance-img-part{
+    width: 50%;
+    float: left;
+}
+.dance-img-part img{
+    width: 100%;
+    height: 500px;
+}
+
+.dance-writing-part{
+    width: 50%;
+    float: left;
+    padding: 200px  50px;
+   
+}
+
+.dance-img-part h1{
+
+}
+.dance-writing-part p{
+width: 100%;
+}
+.writerm{
+    width: 23%;
+    float: left;
+    text-align: end;
+}
+.color{
+    background-color:black;
+    color: #fff;
+    width: 100%;
+    float: left;
+}
